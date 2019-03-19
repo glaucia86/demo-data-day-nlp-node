@@ -2,7 +2,7 @@
 
 Repositorio responsable de las demostraciones durante el evento Data **[Day México 2019](https://sg.com.mx/dataday/)**
 
-## Recursos Utilizados
+## Recursos Utilizados ⭐️⭐️
 
 - [Node.js](https://nodejs.org/en/)
 - [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)
@@ -10,11 +10,31 @@ Repositorio responsable de las demostraciones durante el evento Data **[Day Méx
 - [Yeoman.io](https://yeoman.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Como ejecutar las demos?!
+## Como ejecutar las demos?! 💥💥
 
-(texto)
+#### Demo: EchoBot - Bot Emulator v.4
 
-## Links Importantes:
+Te puedes seguir con el ejemplo en el video **[AQUI](https://youtu.be/rGIpClavZKY)**
+
+```
+> cd echoBot
+```
+
+```
+> npm start
+```
+
+### Demo: Pizzaria Italiana - Bot Emulator v.3
+
+```
+> cd pizzaria
+```
+
+```
+> node pizzariaItaliana.js
+```
+
+## Links Importantes 🔥🔥🔥
 
 Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre los Servicios Cognitivos de Microsoft:
 
@@ -24,8 +44,6 @@ Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre lo
 - **[Prueba Gratis Cognitive Services](https://aka.ms/prueba-gratis-cognitive-services)**
 - **[Prueba Gratis Azure A.I](https://aka.ms/prueba-gratis-azure-ai )**
 
-## Tiene Dudas?! 
+## Tiene Dudas? ❗️❗️❗️
 
-(texto)
-
-**(documentação em desenvolvimento)**
+Si tienes alguna duda referente al código hecho o para configurar el ambiente de desarrollo, basta crear una **[ISSUE AQUI](https://github.com/glaucia86/demo-data-day-nlp-node/issues)** en GitHub que te responderé muy pronto. ❤️ ❤️ ❤️ 😊
