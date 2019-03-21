@@ -8,7 +8,7 @@ Repositorio responsable de las demostraciones durante el evento Data **[Day Méx
 - [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - [Luis.ai](https://luis.ai/home)
 - [Yeoman.io](https://yeoman.io/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](http://bit.ly/2HM1c7x)
 
 ## Como ejecutar las demos?! 💥💥
 
@@ -38,6 +38,7 @@ Te puedes seguir con el ejemplo en el video **[AQUI](https://youtu.be/rGIpClavZK
 
 Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre los Servicios Cognitivos de Microsoft:
 
+- **[Microsoft Bot Framework](http://bit.ly/2JCRF5E)**
 - **[Documentación Bot Framework](https://aka.ms/documentacion-bot-framework)**
 - **[Documentación LUIS.ai](https://aka.ms/documentacion-luis-ai )**
 - **[Websitio LUIS.ai](https://luis.ai/home)**
