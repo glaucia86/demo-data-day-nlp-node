@@ -34,6 +34,14 @@ Te puedes seguir con el ejemplo en el video **[AQUI](https://youtu.be/rGIpClavZK
 > node pizzariaItaliana.js
 ```
 
+Y después abrir el Bot Framework Emulator y empezar a escribir.
+
+p.s.: hay que crear un modelo en LUIS y incluir tu enviroment adentro del archivo `.env`:
+
+```
+> LUIS_MODEL_URL=<tu-link-del-modelo-del-LUIS>
+```
+
 ## Links Importantes 🔥🔥🔥
 
 Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre los Servicios Cognitivos de Microsoft:
@@ -44,6 +52,7 @@ Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre lo
 - **[Websitio LUIS.ai](https://luis.ai/home)**
 - **[Prueba Gratis Cognitive Services](https://aka.ms/prueba-gratis-cognitive-services)**
 - **[Prueba Gratis Azure A.I](https://aka.ms/prueba-gratis-azure-ai )**
+- **[Link Plática Grabada](https://lnkd.in/eYU_ycV)**
 
 ## Tiene Dudas? ❗️❗️❗️
 
